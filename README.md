@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joaquinvasquez
-- 🌱 I’m currently learning Web Development
+- This is my Github profile. For more info about me, visit https://joaquin-vasquez.web.app/
 
 <!---
 joaquinvasquez/joaquinvasquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
