@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/joaquin-vasquez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/joaquinvasquez/joaquinvasquez/main/images/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/joaquinvasquez/joaquinvasquez/main/images/instagram.svg" alt="instagram" height="30" width="30" /></a>
+<a href="https://instagram.com/joacovasquezzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/joaquinvasquez/joaquinvasquez/main/images/instagram.svg" alt="instagram" height="30" width="30" /></a>
 <a href="mailto:joaquinvasquez20@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/joaquinvasquez/joaquinvasquez/main/images/email.svg" alt="email" height="30" width="30" /></a>
 </p>
 <br>
@@ -70,8 +70,3 @@
 <br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<p align="right">
-  Joaquin Vasquez
-  <img src="https://raw.githubusercontent.com/joaquinvasquez/joaquinvasquez/main/images/logo.svg" alt="logo" height="50" width="50" />
-</p>
